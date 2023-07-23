@@ -1,0 +1,39 @@
+.imgsize{
+    width: 60px;
+    height: 60px;;
+}
+.bgc{
+    background-color: rgb(251, 247, 247);
+}
+.loc{
+    top: 17px;
+    left: 15px;;
+}
+.min{
+ min-width: 120px;;
+}
+.card-size{
+    width: 30px;
+    height: 30px;
+}
+.over{
+    overflow-x: auto;
+}
+.min-width{
+    min-width: 800px;
+}
+.bnone{
+    border: 0px;!important
+
+}
+.imgbtn{
+    background-image: url(../imageicon/bazar.png);
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    color: rgb(19, 18, 18);
+}
+a:hover{
+    color: rgb(217, 85, 85);
+}
